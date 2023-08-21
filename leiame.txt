@@ -1,0 +1,5 @@
+liguagem PT-BR
+dia 21/08/2023
+
+este e um jogo torre de hanoi feito em c
+tem como objetivo reforco de apredizamgem e progamacao
